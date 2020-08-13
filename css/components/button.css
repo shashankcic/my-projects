@@ -5,4 +5,11 @@
   color: white;
   font-weight: bold;
   font-family: 'Josefin Sans', sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-blue:hover {
+  background-color: #4040ff;
+  color: #eeeeee;
+  transform: scale(1.1);
 }

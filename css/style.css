@@ -4,6 +4,8 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 @import url("components/banner.css");
+@import url("components/card.css");
+
 
 body {
   font-family: 'Lora', serif;
